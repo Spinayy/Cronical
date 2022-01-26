@@ -1,2 +1,2 @@
-# Wocky
-New Net in Python
+# Mpoumpis
+a MPOYMPIS NET IN PYTHON MEN
