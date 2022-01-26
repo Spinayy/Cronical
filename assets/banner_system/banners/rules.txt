@@ -1,0 +1,11 @@
+{CLEAR}
+            {WHITE}--+- -{YELLOW}-  +-++-+
+            {WHITE}¦-+¦ ¦{YELLOW}¦  ¦¦ +-+
+            {WHITE}-+-+-+{YELLOW}--++-++-+
+  {WHITE}+---------------{YELLOW}------------------+
+  {WHITE}¦ 1. DO NOT SHAR{YELLOW}E NET LOGINS!!    ¦
+  {WHITE}¦ 2. NO SHARING {YELLOW}NET IP/DOMAIN!!   ¦
+  {WHITE}¦ 3. PLEASE NO S{YELLOW}PAM ATTACKS!!     ¦
+  {WHITE}¦ 4. RESPECT ALL{YELLOW} CRONICAL OWNERS!!¦
+  {WHITE}¦ 5. NO HITTING {YELLOW}DSTATS/GOVS!!     ¦
+  {WHITE}+---------------{YELLOW}------------------+

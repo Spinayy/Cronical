@@ -1,0 +1,22 @@
+{CLEAR}
+                               {WHITE}_,    _ {YELLOW}  _    ,_
+                          {WHITE}.o888P     Y8{YELLOW}o8Y     Y888o.
+                         {WHITE}d88888      88{YELLOW}888      88888b
+                        {WHITE}d888888b_  _d88{YELLOW}888b_  _d888888b
+                        {WHITE}888888888888888{YELLOW}8888888888888888
+                        {WHITE}888888888888888{YELLOW}8888888888888888
+                        {WHITE}YJGS8P"Y888P"Y8{YELLOW}88P"Y888P"Y8888P
+                         {WHITE}Y888   '8'   Y{YELLOW}8P   '8'   888Y
+                          {WHITE}'8o          {YELLOW}V          o8'
+                            {WHITE}`          {YELLOW}           `
+                       {WHITE}╚═══╦═══════════{YELLOW}════════════╦═══╝
+                      {WHITE}╔════╩═══════════{YELLOW}════════════╩══════╗
+                      {WHITE}║  METHODS -> [Sh{YELLOW}ow Methods Pages]  ║
+                      {WHITE}║  FUNC    -> [Sh{YELLOW}ow All Functions]  ║
+                      {WHITE}║  TOOLS   -> [Sh{YELLOW}ow All Net Tools]  ║
+                      {WHITE}║  STATUS  -> [Sh{YELLOW}ow Net Status <3]  ║
+                      {WHITE}║  ACCOUNT -> [Sh{YELLOW}ow Net Acc info ]  ║
+                      {WHITE}║  PASSWD  -> [Ch{YELLOW}ange Acc Passwd ]  ║
+                      {WHITE}║  RULES   -> [Sh{YELLOW}ow All Net Rules]  ║
+                      {WHITE}║  EXIT    -> [Ex{YELLOW}it The Terminal ]  ║
+                      {WHITE}╚════════════════{YELLOW}═══════════════════╝

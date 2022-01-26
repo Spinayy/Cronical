@@ -1,0 +1,19 @@
+{CLEAR}
+                               {WHITE}_,    _  {YELLOW} _    ,_
+                          {WHITE}.o888P     Y8o{YELLOW}8Y     Y888o.
+                         {WHITE}d88888      888{YELLOW}88      88888b
+                        {WHITE}d888888b_  _d888{YELLOW}88b_  _d888888b
+                        {WHITE}8888888888888888{YELLOW}888888888888888
+                        {WHITE}8888888888888888{YELLOW}888888888888888
+                        {WHITE}YJGS8P"Y888P"Y88{YELLOW}8P"Y888P"Y8888P
+                         {WHITE}Y888   '8'   Y8{YELLOW}P   '8'   888Y
+                          {WHITE}'8o          V{YELLOW}          o8'
+                            {WHITE}`           {YELLOW}          `
+                       {WHITE}╚═══╦════════════{YELLOW}═══════════╦═══╝
+                   {WHITE}╔═══════╩════════════{YELLOW}═══════════╩════════╗
+                   {WHITE}║  Cronical - For Cro{YELLOW}nical Method Page   ║
+                   {WHITE}║  Demonic - For Demo{YELLOW}nic Methods Page    ║
+                   {WHITE}║  XXXXXXX - XXXXXXXX{YELLOW}XXXXXXXXXXXXXXXX    ║ 
+                   {WHITE}╚════════════════════{YELLOW}════════════════════╝
+                   
+

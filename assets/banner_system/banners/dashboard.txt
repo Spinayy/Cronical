@@ -1,0 +1,16 @@
+     ╔══════════════════╗   ╔══════════════════════╗   ╔══════════════════╗
+     ║   Total Users    ║   ║  Total Online Users  ║   ║  Total Attacks   ║
+     ╠══════════════════╣   ╠══════════════════════╣   ╠══════════════════╣
+     ║        {TOTALUSERS}         ║   ║           {ONLINEUSERS}          ║   ║        2         ║
+     ╚══════════════════╝   ╚══════════════════════╝   ╚══════════════════╝
+
+  ╔═════════════════╦═══════════════╗ ╔═════════════════════════════════════╗
+  ║ {RED}Network Name{RESET}    ║ {RED}Status{RESET}        ║ ║         Account Information         ║
+  ╚═════════════════╩═══════════════╝ ╚═════════════════════════════════════╝
+   SST               Online            Username         {USERNAME}
+                                       IP               {CURRENTIP}
+                                       Membership       {CURRENTRANK}
+                                       Maxtime          {CURRENTMTIME}
+                                       Concurrent       {CURRENTCONN}
+                                       Admin            {CURRENTADMIN}
+

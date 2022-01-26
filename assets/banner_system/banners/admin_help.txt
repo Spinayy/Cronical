@@ -1,0 +1,7 @@
+{CLEAR}
+    {YELLOW}╔═══════════════════════╗{YELLOW}    {YELLOW}╔═══════════════════════╗{YELLOW}
+    {YELLOW}║      {CYAN}Total Users{YELLOW}    ║{YELLOW}      {YELLOW}║      {CYAN}Total Users{YELLOW}      ║{YELLOW}
+    {YELLOW}╠═══════════════════════╣{YELLOW}    {YELLOW}╠═══════════════════════╣{YELLOW}
+    {YELLOW}║           {CYAN}[3]{YELLOW}       ║{YELLOW}      {YELLOW}║           {CYAN}[3]{YELLOW}{YELLOW}         ║ 
+    {YELLOW}╚═══════════════════════╝{YELLOW}    {YELLOW}╚═══════════════════════╝{YELLOW}
+   
